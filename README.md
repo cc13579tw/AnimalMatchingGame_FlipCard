@@ -53,7 +53,7 @@ such as double-clicking during card resolution.
 
 ![Mid Game](screenshot-board.png)
 
-![Game Completed](screenshot-win.png)
+![Game Completed](screenshot-completed)
 
 ## Notes
 Best time is stored using Preferences.
