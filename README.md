@@ -47,8 +47,13 @@ such as double-clicking during card resolution.
 - Sound effects and visual feedback
 - Mobile-friendly layout optimizations
 
-## Screenshot
-![Gameplay Screenshot](screenshot.png)
+## Screenshots
+
+![Game Start](screenshot-start.png)
+
+![Mid Game](screenshot-board.png)
+
+![Game Completed](screenshot-win.png)
 
 ## Notes
 Best time is stored using Preferences.
